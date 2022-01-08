@@ -1,4 +1,4 @@
-# PlayerMounts
+# SimpleBackpacks
 SimpleBackpacks Plugin for Spigot/Paper 1.18 by GuitarXpress (HeyImJ0hn)
 
 ###### Commands:
