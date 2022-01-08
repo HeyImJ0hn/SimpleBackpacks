@@ -1,0 +1,15 @@
+main: com.GuitarXpress.SimpleBackpacks.Main
+name: SimpleBackpacks
+version: 1.0.0
+author: GuitarXpress
+api-version: 1.18
+description: Simple Backpacks!
+website: 
+
+permissions:
+   backpacks.use:
+      description: Access to backpacks
+
+commands:
+   backpack:  
+      usage: /<command>
